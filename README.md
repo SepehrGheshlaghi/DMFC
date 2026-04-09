@@ -1,4 +1,4 @@
-# DMFC Assignment Reference Model
+# DMFC Reference Model
 
 This repository turns the original assignment scripts into a cleaner, academic-style Python reference for the 1D DMFC model.
 
