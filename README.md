@@ -1,6 +1,6 @@
 # DMFC Assignment Reference Model
 
-This repository turns the original assignment scripts into a cleaner, academic-style Python reference for the 1D DMFC model in part C of `CME8044`.
+This repository turns the original assignment scripts into a cleaner, academic-style Python reference for the 1D DMFC model.
 
 The code keeps the assignment scope intentionally simple:
 
